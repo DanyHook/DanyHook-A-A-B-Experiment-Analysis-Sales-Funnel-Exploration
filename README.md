@@ -9,7 +9,7 @@
 
 ## 🧭 Project Overview
 
-You work as a data analyst for a food product startup. Your mission is to investigate **user behavior within the mobile app**, explore the **sales funnel**, and assess the impact of **UI font changes** through an **A/A/B experiment**.
+I work as a data analyst for a food product startup. My mission is to investigate **user behavior within the mobile app**, explore the **sales funnel**, and assess the impact of **UI font changes** through an **A/A/B experiment**.
 
 ---
 
